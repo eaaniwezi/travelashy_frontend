@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">travelashy</string>
+    <string name="facebook_app_id">1186157131824703</string>
+    <string name="fb_login_protocol_scheme">fb1186157131824703</string>
+</resources>
